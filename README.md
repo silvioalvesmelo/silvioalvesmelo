@@ -1,4 +1,6 @@
-## Olá! Eu sou o Silvio Alves 
+## Olá! Meu nome é Silvio Alves, sou formado em Analise e Desenvolvimento de Sistemas com Especialização em Master of Business Administration MBA, Business Intelligence, Management & Analytics.
+Apaixonado por Tecnologia e Inovação, possuo mais de 20 anos de experiencia nas áreas de Tecnologia da Informação e Planejamento estratégico, liderando projetos Infraestrutura, Desenvolvimento de sistemas; E-commerce e BI.
+Seja bem vindo ao meu pequeno espaço, onde quero poder contrinuir com meu conhecimento e comparilhar alguns cases que possam de ajudar.
 
 <div>
   <a href="https://github.com/silvioalvesmelo">
