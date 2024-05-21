@@ -1,13 +1,16 @@
-## Olá! Meu nome é Silvio Alves, sou formado em Analise e Desenvolvimento de Sistemas com Especialização em Master of Business Administration MBA, Business Intelligence, Management & Analytics. <br>
 
-Apaixonado por Tecnologia e Inovação, possuo mais de 20 anos de experiencia nas áreas de Tecnologia da Informação e Planejamento estratégico, liderando projetos Infraestrutura, Desenvolvimento de sistemas; E-commerce e BI.
-Seja bem vindo ao meu pequeno espaço, onde quero poder contrinuir com meu conhecimento e comparilhar alguns cases que possam de ajudar.
+## Olá! Meu nome é Silvio Alves <br><br>
 
+Sou formado em Analise e Desenvolvimento de Sistemas com MBA em Business Intelligence, Management & Analytics. Apaixonado por Tecnologia e Inovação, possuo mais de 20 anos de experiencia nas áreas de Tecnologia da Informação e Planejamento estratégico, liderando projetos Infraestrutura, Desenvolvimento de sistemas; E-commerce e BI.<br><br>
 
 <div>
-  <a href="https://github.com/silvioalvesmelo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=silvioalvesmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvioalvesmelo&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/silvioalvesmelo">
+        <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api?username=silvioalvesmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/silvioalvesmelo">
+        <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvioalvesmelo&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+
 </div><br>
 
 ##
