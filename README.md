@@ -5,13 +5,13 @@ Sou formado em Analise e Desenvolvimento de Sistemas com MBA em Business Intelli
 
 <div>
     <a href="https://github.com/silvioalvesmelo">
-        <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api?username=silvioalvesmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api?username=silvioalvesmelo&show_icons=true&theme=dark&count_private=true"/>
     </a>
     <a href="https://github.com/silvioalvesmelo">
-        <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvioalvesmelo&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvioalvesmelo&layout=compact&theme=dark&count_private=true"/>
     </a>
-
-</div><br>
+</div
+><br>
 
 ##
 Linguagens de programação e Desenvolvimento
